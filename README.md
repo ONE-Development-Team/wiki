@@ -26,6 +26,10 @@
 - [Tomcat](http://tomcat.apache.org/)
 - [Jexus](https://www.jexus.org/)
 
+## 数据分析
+
+- [Google 趋势](https://trends.google.com)
+
 ## 社区
 
 ### 网络安全
