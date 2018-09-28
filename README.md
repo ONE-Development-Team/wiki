@@ -12,6 +12,10 @@
 
 - [OpenJDK](https://jdk.java.net/)
 
+## 包管理
+
+- [Gradle](https://gradle.org/)
+
 ## 前端
 
 - [Vue.js](https://vuejs.org/)
