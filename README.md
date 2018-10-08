@@ -41,10 +41,16 @@
 - [吾爱破解](https://www.52pojie.cn/)
 - [看雪安全论坛](https://bbs.pediy.com/)
 
-> 技术站
+## 技术站
  
 - [美团点评技术团队](https://tech.meituan.com/)
 
+# 开源类
+
+## 网盘
+
+- [seafile](https://github.com/haiwen/seafile)
+- [syncthing](https://github.com/syncthing/syncthing)
 
 # 设计类
 
