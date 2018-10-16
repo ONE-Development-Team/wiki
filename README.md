@@ -65,3 +65,7 @@
 ## 社区
 
 - [香港高登](https://www.hkgolden.com/)
+
+## 新闻
+
+- [多维新闻](http://www.dwnews.com/)
