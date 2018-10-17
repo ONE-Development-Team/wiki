@@ -34,6 +34,10 @@
 
 - [Google 趋势](https://trends.google.com)
 
+## 算法
+
+- [AI算法工程师手册](http://www.huaxiaozhuan.com/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 ## 社区
 
 ### 网络安全
